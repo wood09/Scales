@@ -24,3 +24,4 @@ void scale(int x, int y) {
   arc(x, y, 50, 50, 0, PI/2);
   fill(255, 50, 50);
   triangle(x,y+25,x+25,y,x-25,y);
+}
